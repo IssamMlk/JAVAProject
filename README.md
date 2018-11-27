@@ -3,10 +3,9 @@
 <p>MALLEK Issam</p>
 
 
+[center]Projet JAVA: Restaurant de Bagel[/center]
 
-<p style="text-align:center";>
-Projet JAVA: Restaurant de Bagel
-</p>
+
 
 <p style="text-align:justify";>
 partie du texte à "justifier"
