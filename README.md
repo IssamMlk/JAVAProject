@@ -20,11 +20,12 @@
  
 ## I) Les subtilités de nos programmes et ce qui font son unicité
 
+Pose pas trop de question
 
 ## II) Les problèmes que nous avons rencontrés ainsi que les stratègies de résolution employés
 
-  <p>Nous avons utilisé des " System.Out.println("OK")" afin de répérer une grande part des erreurs que nous avons rencontrés. Avec cette simple commande, nous etions capable de comprendre à partir de quel moment le programme cesser de fonctionner ou commencer à rencontrer des bugs. Une fois la fonction ou commande repéré et isoler, il fallait la corriger.
+  <p>Nous avons utilisé des " System.Out.println("OK")" afin de répérer une grande part des erreurs que nous avons rencontrés. Avec cette simple commande, nous etions capable de comprendre à partir de quel moment le programme cesser de fonctionner ou commencer à rencontrer des bugs. Une fois la fonction ou commande repéré et isolé, il fallait la corriger.
   </p>
-  <p>Nous allons ici détailler, avec des exemples, plusieurs problèmes que nous avons rencontré du plus simple à résoudre au plus hardu</p>  
+  <p>Nous allons ici détailler, avec des exemples, plusieurs problèmes que nous avons rencontrés du plus simple à résoudre au plus hardu</p>  
 
   
