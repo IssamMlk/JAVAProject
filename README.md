@@ -1,8 +1,8 @@
-# JAVAProject
+# Projet JAVA: Restaurant de Baggle
 
-<p></p>
+<p>Dans ce Readme, nous allons aborder les points suivants: </p>
 <ol>
-  <li> les subtilités des programmes </li>
-  <li> les stratégies de résolution des problèmes rencontrés </li>
- </ol>
+  <li> les subtilités de nos programmes </li>
+  <li> les problèmes que nous avons rencontrés ainsi que les stratègies de résolution employés </li>
+</ol>
  
