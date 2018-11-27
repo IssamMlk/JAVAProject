@@ -6,3 +6,6 @@
   <li> les problèmes que nous avons rencontrés ainsi que les stratègies de résolution employés </li>
 </ol>
  
+ 
+ 
+## I) Les subtilités de nos programmes
