@@ -1,4 +1,14 @@
+MANDENGUE Paul-Alexis
+JUNGER Damien
+MALLEK Issam
+
+
+
+
 # Projet JAVA: Restaurant de Baggle
+
+
+
 
 <p>Dans ce Readme, nous allons aborder les points suivants: </p>
 <ol>
