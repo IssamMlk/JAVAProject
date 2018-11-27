@@ -29,6 +29,6 @@ Pose pas trop de question
   <p>Nous allons ici détailler, avec des exemples, plusieurs problèmes que nous avons rencontrés du plus simple à résoudre au plus hardu</p>  
 
   <ol>
-  <li><strong>Les problemes liées aux listes chainées:</strong><color='red'/li>
+  <li><strong>Les problemes liées aux listes chainées:</strong></li>
   <p> La déclaration, l'affichage et l'utilisation des listes chainées, nous ont posées d'enorme problème. Aprés avoir déterminer l'emplacement du problème, nous avons fait de multiples tests pour debugger notre fonction. Notre soucis se situer à l'origine même de notre liste client, nous avon du ... pour regler le problème. </p>
   </ol>
