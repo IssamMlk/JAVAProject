@@ -7,7 +7,7 @@
 
 # Projet JAVA: Restaurant de Baggle
 
-<p>Introduction:</p> 
+<p><strong>Introduction:</strong></p> 
 <p>Pour le projet orienté objet 2018, nous devions écrire un programme de gestion d'un restaurant de Bagel utilisable en ligne de commande, une librairie pour historiser les évènements et une librairie pour tester du code. Nous avons donc ecrit plusieurs programmes capable de fonctionner ensemble afin de mener à bien l'objectif qui nous a été donnée</p>
 
 <p>Dans ce Readme, nous allons aborder les points suivants: </p>
