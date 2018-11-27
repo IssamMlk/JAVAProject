@@ -4,8 +4,14 @@
 
 
 
+<p style="text-align:center";>
+# Projet JAVA: Restaurant de Bagel
+</p>
 
-# Projet JAVA: Restaurant de Bagle
+<p style="text-align:justify";>
+partie du texte à "justifier"
+</p>
+
 
 <p><strong>Introduction:</strong></p> 
 <p>Pour le projet orienté objet 2018, nous devions écrire un programme de gestion d'un restaurant de Bagel utilisable en ligne de commande, une librairie pour historiser les évènements et une librairie pour tester du code. Nous avons donc ecrit plusieurs programmes capable de fonctionner ensemble afin de mener à bien l'objectif qui nous a été donnée</p>
