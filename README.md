@@ -22,11 +22,17 @@ Dans un premier temps, nous avons cherché par où nous devions commencer. Nous 
 
 <h2>Les problèmes que nous avons rencontrés ainsi que les stratégies de résolution employés</h2>
 
-Nous avons utilisé le logger afin de repérer une grande part des erreurs que nous avons rencontrés. Avec cette simple commande, nous étions capable de comprendre à partir de quel moment le programme cesser de fonctionner ou commencer à rencontrer des bugs. Une fois la fonction ou commande repéré et isolé, il fallait la corriger.
-Nous allons ici détailler, avec des exemples, plusieurs problèmes que nous avons rencontrés du plus simple à résoudre au plus ardu
-Les problèmes liés aux listes chaînées: Les listes chaînées nous ont posées beaucoup de problèmes dans ce projet car nous en avons utilisés plusieurs pour différentes classe (Client, Produits, Restaurant, …). Assembler toutes les listes chaînées pour pouvoir toutes les appelés, nous a semblé difficile de l’éffectuer, mais une fois que nous a
-La déclaration, l'affichage et l'utilisation des listes chaînées, nous ont posées d'énorme problème. Après avoir déterminé l'emplacement du problème, nous avons fait de multiples tests pour débugger notre fonction. Notre soucis se situer à l'origine même de notre liste client, nous avon du ... pour régler le problème.
+Nous avons utilisé le logger afin de repérer une grande part des erreurs que nous avons rencontrés. Avec cette simple commande, nous étions capable de comprendre à partir de quel moment le programme cesser de fonctionner ou commencer à rencontrer des bugs. Une fois la fonction ou commande repérée et isolée, il fallait la corriger.
+Nous allons ici détailler plusieurs problèmes que nous avons rencontrés tout au long du projet. 
+<ol>
+ <li>Les problèmes liés aux listes chaînées: Les listes chaînées nous ont posées beaucoup de problèmes dans ce projet car nous en avons utilisés plusieurs pour différentes classes (Client, Produits, Restaurant, …). Assembler toutes les listes chaînées pour pouvoir toutes les appelés, nous a semblé difficile de l'effectuer, mais une fois que nous avons compris comment il fallait procéder, nous avons pu fixer notre problème.</li>
+ 
+<li>La déclaration, l'affichage et l'utilisation des listes chaînées, nous ont posées d'énorme problème. Après avoir déterminé l'emplacement du problème, nous avons fait de multiples tests pour débugger notre fonction. </li>
 
+<li>Par rapport au test du testframework, nous l’avons rédiger pour qu’il effectue les tests des fonctions, hors le projet compile et se lance mais on a l’impression qu’il n’effectue pas les test. </li>
+
+<li>L’un des derniers problèmes auquel nous devions faire face, c’était l’apprentissage d’un nouveau langage et de coder un tel projet en seulement un seul mois, mais nous avons pu réaliser un projet qui compile et qui interagit avec l’utilisateur, mais qui n’est pas abouti comme nous le voulions.</li>
+</ol>
 
  <h2>Conclusion</h2>
 
