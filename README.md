@@ -18,21 +18,26 @@ Dans ce Readme, nous allons aborder les points suivants:
 <h2>Les subtilités de nos programmes et ce qui font son unicité</h2>
 
 Ce qui fait la subtilité de notre projet, c'est avant tout la démarche mise en oeuvre afin de mener à bien le projet.C'est ce qui fait toute son unicité.
-Dans un premier temps, nous avons cherché par où nous devions commencer. Nous avons déterminé que nous pouvions, à l'aide du TP2, mettre en place un libraire d’événement (logger). Une fois le Logger fonctionnel, nous nous sommes attaqués à la réalisation du programme de gestion du restaurant. Pour celui-ci, nous avons commencé par élaborer plusieurs petites fonctions telles que ajouter des produits lorsqu’il en manque et supprimer des produits lorsqu’un client commande un produit, afficher les produits existants et faire la gestion des clients lorsqu’il commande. Dans un même temps, en simultanée, nous avons codé le testframework. Une fois ceci réalisé, nous avons créé plusieurs objets et méthodes. Par la suite nous avons ajoutés de nouvelles classes comme celle qui permettent d’ajouter et d’afficher le nombre de client(client.java et askclient.java). Dans AskClient on a utilisé la classe Client pour implémenter des méthodes telles que ajouterClient, qui permet d'accueillir de nvx clients dans le restaurant, et de les assigner à des tables. demanderClient, qui permet aux clients d'une table de passer une commande
+Dans un premier temps, nous avons cherché par où nous devions commencer. Nous avons déterminé que nous pouvions, à l'aide du TP2, mettre en place un libraire d’événement (logger). Une fois le Logger fonctionnel, nous nous sommes attaqués à la réalisation du programme de gestion du restaurant. Pour celui-ci, nous avons commencé par élaborer plusieurs petites fonctions telles que ajouter des produits lorsqu’il en manque et supprimer des produits lorsqu’un client commande un produit, afficher les produits existants et faire la gestion des clients lorsqu’il commande. Dans un même temps, en simultanée, nous avons codé le testframework. Une fois ceci réalisé, nous avons créé plusieurs objets et méthodes. Par la suite nous avons ajoutés de nouvelles classes comme celle qui permettent d’ajouter et d’afficher le nombre de client(client.java et askclient.java). Dans AskClient on a utilisé la classe Client pour implémenter des méthodes telles que ajouterClient, pour accueillir de nouveaux clients dans le restaurant, et de les assigner à des tables. demanderClient, qui permet aux clients d'une table de passer une commande. afficherNbClient, qui affiche la liste des clients présents dans le restaurant et supprimerClient, afin de clôturer la note de clients qui ont commandé. Ici, nous avons rencontrés des difficultés. Nous n’avons pas été en mesure de régler ce problème. C’est la démarche, les idées, les intuitions et les solutions mise en place qui font toute la différence de nos programmes.
+
+
 
 
 <h2>Les problèmes que nous avons rencontrés ainsi que les stratégies de résolution employés</h2>
 
 Nous avons utilisé le logger afin de repérer une grande part des erreurs que nous avons rencontrés. Avec cette simple commande, nous étions capable de comprendre à partir de quel moment le programme cesser de fonctionner ou commencer à rencontrer des bugs. Une fois la fonction ou commande repérée et isolée, il fallait la corriger.
 Nous allons ici détailler plusieurs problèmes que nous avons rencontrés tout au long du projet. 
+
 <ol>
  <li>Les problèmes liés aux listes chaînées: Les listes chaînées nous ont posées beaucoup de problèmes dans ce projet car nous en avons utilisés plusieurs pour différentes classes (Client, Produits, Restaurant, …). Assembler toutes les listes chaînées pour pouvoir toutes les appelés, nous a semblé difficile de l'effectuer, mais une fois que nous avons compris comment il fallait procéder, nous avons pu fixer notre problème.</li>
  
-<li>La déclaration, l'affichage et l'utilisation des listes chaînées, nous ont posées d'énorme problème. Après avoir déterminé l'emplacement du problème, nous avons fait de multiples tests pour débugger notre fonction. </li>
+<li>La déclaration, l'affichage et l'utilisation des listes chaînées, nous ont posées d'énorme problème. Après avoir déterminé l'emplacement du problème, nous avons fait de multiples tests pour débugger notre fonction.  </li>
+
+<li> Pour de ce qui est de la fonction qui permet de clôturer une note d’un client, nous n’avons pas réussi à enregistrer le produit sur la note d’un client pour lui finaliser la commande et savoir combien il doit payer avant de quitter le restaurant. Nous aurions pu régler ce problème avec plus de connaissances et de temps car nous avons perdu beaucoup de temps sur des fonctions moins importantes. </li>
 
 <li>Par rapport au test du testframework, nous l’avons rédiger pour qu’il effectue les tests des fonctions, hors le projet compile et se lance mais on a l’impression qu’il n’effectue pas les test. </li>
 
-<li>L’un des derniers problèmes auquel nous devions faire face, c’était l’apprentissage d’un nouveau langage et de coder un tel projet en seulement un seul mois, mais nous avons pu réaliser un projet qui compile et qui interagit avec l’utilisateur, mais qui n’est pas abouti comme nous le voulions.</li>
+<li> L’un des derniers problèmes auquel nous devions faire face, c’était l’apprentissage d’un nouveau langage et de coder un tel projet en seulement un seul mois, mais nous avons pu réaliser un projet qui compile et qui interagit avec l’utilisateur, mais qui n’est pas abouti comme nous le voulions.</li>
 </ol>
 
  <h2>Conclusion</h2>
