@@ -1,7 +1,7 @@
-MANDENGUE Paul-Alexis
-JUNGER Damien
-MALLEK Issam
-3A31
+<p>MANDENGUE Paul-Alexis</p>
+<p>JUNGER Damien</p>
+<p>MALLEK Issam</p>
+<p>3A31</p>
 
 <H1>Projet JAVA: Restaurant de Bagel</h1>
 
