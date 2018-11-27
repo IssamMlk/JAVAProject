@@ -22,7 +22,7 @@
 
 Ce qui fait la subtilité de notre projet, c'est avant tous la démarche mise en oeuvre afin de mener à bien le projet et d'autre part les solutions apportés aux differents problèmes que nous avons rencontrés. C'est ce qui fait là toute son unicité.
 
-Dans un premier temps, nous avons cherché par où nous devions commencé et qui puissent être utile au projet. Nous avons déterminé que nous pouvions à l'aide du TP2  mettre en place un logger fonctionnel. Une fois le Logger fonctionnel nous avons attaqué la réalisation du restaurant. Pour le restaurant, nous avons commencé par élaborer plusieur petite fonction tel que afficher
+Dans un premier temps, nous avons cherché par où nous devions commencé et qui puissent être utile au projet. Nous avons déterminé que nous pouvions à l'aide du TP2  mettre en place un logger fonctionnel. Une fois le Logger fonctionnel nous avons attaqué la réalisation du restaurant. Pour le restaurant, nous avons commencé par élaborer plusieur petite fonction tel que ajouter /supprimer des produits. Ensuite nous avons creer plusieur objet nottament client et mis en place des methodes afin de faire interagir les objets ensemble. 
 
 ## II) Les problèmes que nous avons rencontrés ainsi que les stratègies de résolution employés
 
