@@ -10,11 +10,14 @@
 <h2>Introduction:</h2>
 Pour le projet orienté objet 2018, nous devions écrire un programme de gestion d'un restaurant de Bagel utilisable en ligne de commande en java et en un mois. Le projet devait pouvoir proposer le programme de gestion d'un restaurant de Bagel ainsi qu’une librairie pour historiser les évènements et une librairie pour faire des tests. Plusieurs fonctions, nous ont été données notamment afin de pour le testframework ou encore pour le restaurant. Nous avons donc écrit plusieurs programmes capable de fonctionner ensemble afin de mener à bien l'objectif qui nous a été donnée. 
 Dans ce Readme, nous allons aborder les points suivants:
-les subtilités de nos programmes et ce qui font son unicité
-les problèmes que nous avons rencontrés ainsi que les stratégies de résolution employés
-Les subtilités de nos programmes et ce qui font son unicité
+<ol>
+ <li>les subtilités de nos programmes et ce qui font son unicité</li>
+ <li>les problèmes que nous avons rencontrés ainsi que les stratégies de résolution employés</li>
+</ol>
 
-<h2>Ce qui fait la subtilité de notre projet, c'est avant tout la démarche mise en oeuvre afin de mener à bien le projet.C'est ce qui fait toute son unicité.</h2>
+<h2>Les subtilités de nos programmes et ce qui font son unicité</h2>
+
+Ce qui fait la subtilité de notre projet, c'est avant tout la démarche mise en oeuvre afin de mener à bien le projet.C'est ce qui fait toute son unicité.
 Dans un premier temps, nous avons cherché par où nous devions commencer. Nous avons déterminé que nous pouvions à l'aide du TP2 mettre en place un libraire d’événement(logger). Une fois, le Logger fonctionnel nous nous sommes attaqués à la réalisation du programme de gestion du restaurant. Pour celui-ci, nous avons commencé par élaborer plusieur petite fonction tel que ajouter/supprimer des produits ou encore afficher les produits existants. Dans un même temps, en simultanée, nous avons codé le testframework. Une fois ceci réalisé, nous avons créé plusieurs objets et méthodes.  
 
 <h2>Les problèmes que nous avons rencontrés ainsi que les stratégies de résolution employés</h2>
