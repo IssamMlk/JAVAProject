@@ -5,7 +5,7 @@
 
 
 <p style="text-align:center";>
-# Projet JAVA: Restaurant de Bagel
+Projet JAVA: Restaurant de Bagel
 </p>
 
 <p style="text-align:justify";>
